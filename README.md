@@ -32,4 +32,18 @@ The goal of this game is to catch the balls with the basket which is located bel
 
 ## How Does It Look Like
 
+### General View
+
 ![General View](/assets/images/1.png)
+
+### Game Over
+
+![Game Over](/assets/images/2.png)
+
+### Stopped
+
+![Stopped](/assets/images/3.png)
+
+### How to Play
+
+![How to Play](/assets/images/4.png)
