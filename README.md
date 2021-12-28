@@ -32,4 +32,4 @@ The goal of this game is to catch the balls with the basket which is located bel
 
 ## How Does It Look Like
 
-![General View](https://drive.google.com/file/d/1GCvT1uD5wQqH-UxSD2XoJhfrlgXARwIj/view)
+![General View](/assets/images/1.png)
