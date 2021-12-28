@@ -1,6 +1,7 @@
 # Catch The Balls
 
-A game which you try to catch the balls written in Java using swing for CMPE 261 class
+A game which you try to catch the balls written in Java using swing for CMPE 261 class.
+There are several screenshots below you can see how the game looks like.
 
 ## Goal of the Game
 
@@ -16,9 +17,10 @@ The goal of this game is to catch the balls with the basket which is located bel
 
 - You can start the game by using left and right arrows, or you can use Start/Continue button in the menu up of the game window.
 - Also, you can stop the game in exact place where the ball is located. You will see small message box after stop button get clicked. After all there are several steps to follow up;
-- - First, you need click ok button on message box, or you can press Enter key on your keyboard
-- - Second, you can use left or right arrow keys, or click start/continue button up of the game window
+- - First, you need click ok button on message box, or you can press Enter key on your keyboard.
+- - Second, you can use left or right arrow keys, or click start/continue button up of the game window.
 - There is a also message button to learn how to play.
+- You can see your score below of the game window.
 
 ## How to Play?
 
@@ -27,3 +29,7 @@ The goal of this game is to catch the balls with the basket which is located bel
 - Use left and right arrow keys to move the basket.
 - After 5, 10, 15, 20 balls speed will change regularly.
 - After 20 balls, ball speed will be change randomly.
+
+## How Does It Look Like
+
+![General View](https://drive.google.com/file/d/1GCvT1uD5wQqH-UxSD2XoJhfrlgXARwIj/view)
